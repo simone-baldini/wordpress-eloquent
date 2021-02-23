@@ -1,0 +1,31 @@
+{
+  "name": "simone-baldini/wordpress-eloquent",
+  "description": "Eloquent ORM for WordPress",
+  "keywords": [
+    "wordpress",
+    "eloquent",
+    "laravel",
+    "orm"
+  ],
+  "type": "library",
+  "require": {
+    "illuminate/database": "^5.7"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "simone baldini",
+      "email": "smn.baldini@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SimoneBaldini\\": "src/"
+    },
+    "files": [
+      "bootstrap.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "version": "1.0.1"
+}
