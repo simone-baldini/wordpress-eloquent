@@ -26,6 +26,5 @@
       "bootstrap.php"
     ]
   },
-  "minimum-stability": "dev",
   "version": "2.0.0"
 }
