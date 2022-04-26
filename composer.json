@@ -9,7 +9,7 @@
   ],
   "type": "library",
   "require": {
-    "illuminate/database": "8.x-dev"
+    "illuminate/database": "^8.83"
   },
   "license": "MIT",
   "authors": [

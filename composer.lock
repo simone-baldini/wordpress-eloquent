@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4e2974937ec4df67a1296e6b52f21384",
+    "content-hash": "db07fd5bbf8566ebee7e1ef14ab06d15",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -252,7 +252,7 @@
         },
         {
             "name": "illuminate/database",
-            "version": "8.x-dev",
+            "version": "v8.83.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
@@ -1707,10 +1707,8 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "illuminate/database": 20
-    },
-    "prefer-stable": false,
+    "stability-flags": [],
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
