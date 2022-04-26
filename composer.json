@@ -9,13 +9,13 @@
   ],
   "type": "library",
   "require": {
-    "illuminate/database": "^5.7"
+    "illuminate/database": "8.x-dev"
   },
   "license": "MIT",
   "authors": [
     {
       "name": "simone baldini",
-      "email": "smn.baldini@gmail.com"
+      "email": "info@simonebaldini.dev"
     }
   ],
   "autoload": {
@@ -27,5 +27,5 @@
     ]
   },
   "minimum-stability": "dev",
-  "version": "1.0.1"
+  "version": "2.0.0"
 }
